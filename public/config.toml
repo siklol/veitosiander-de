@@ -1,0 +1,25 @@
+baseurl = "https://www.veitosiander.de/"
+title = "veitosiander.de"
+copyright = "Copyright &copy; 2017 - Veit Osiander"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = ""
+    github = "siklol"
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = ""
+    instagram = "veitosiander"
+
+[params]
+    tagline = "..."
+
+
